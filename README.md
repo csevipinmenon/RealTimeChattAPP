@@ -1,4 +1,4 @@
-/*************  ✨ Windsurf Command ⭐  *************/
+
 # Chatty
 
 ## Project Overview
