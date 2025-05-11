@@ -32,4 +32,3 @@ Chatty is a real-time chat application built using React for the frontend and Ex
 
 This project is licensed under the ISC License.
 
-## live Demo []
